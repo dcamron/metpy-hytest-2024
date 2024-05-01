@@ -12,6 +12,7 @@ dependencies:
   - netcdf4
   - numpy
   - pandas<2  # siphon NCSS endian-ness fun
+  - pykdtree
   - pythia-datasets
   - s3fs
   - siphon
