@@ -6,7 +6,8 @@
 
 </div>
 
-# NSF Unidata Presents MetPy for USGS HyTEST
+# MetPy for Analysis and Visualization of Weather Data in Python
+*NSF Unidata, USGS HyTEST, May 2024*
 
 ### :keyboard: Getting set up
 For this workshop, we have two separate ways you can live code, work ahead, and follow along.
