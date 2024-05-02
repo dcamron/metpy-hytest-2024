@@ -3,6 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - cartopy
+  - dataretrieval
   - dask
   - geopandas
   - jupyterlab
@@ -15,6 +16,7 @@ dependencies:
   - pykdtree
   - pythia-datasets
   - s3fs
+  - seaborn
   - siphon
   - xarray<2023.03
   - zarr
